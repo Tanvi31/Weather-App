@@ -10,5 +10,10 @@ In this weather app we will add one search box where user can enter the city nam
 **HTML**
 **CSS**
 **JavaScript**
+## Snippet
+![image](https://github.com/user-attachments/assets/166789ef-21ec-4aa0-9532-b219046099f1)
 
 ## Live Link of the App -
+**https://tanvi31.github.io/Weather-App/**
+
+**Thanks for checking out my GitHub repo 😊**
